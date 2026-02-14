@@ -1,2 +1,2 @@
 # resume
-janice cv
+Full Janice Resume
