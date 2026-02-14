@@ -157,6 +157,22 @@ nav a {
   margin-bottom: 5px;
 }
 
+.education-card, .referee-card {
+  background-color: #fff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.award-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.award-list li {
+  margin-bottom: 8px;
+}
 
 /* FOOTER */
 footer {
